@@ -7,3 +7,19 @@ These solutions are shared for learning purposes and do not include copyrighted 
 I have divided the solutions according to their respective topics they belong.
 <br>
 Thank you!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
