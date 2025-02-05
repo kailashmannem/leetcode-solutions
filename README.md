@@ -18,6 +18,7 @@ Thank you!
 | [0027-remove-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Thank you!
 | ------- |
 | [0007-reverse-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -56,4 +58,8 @@ Thank you!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
