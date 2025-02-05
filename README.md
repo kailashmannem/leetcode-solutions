@@ -27,4 +27,12 @@ Thank you!
 | ------- |
 | [0007-reverse-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
