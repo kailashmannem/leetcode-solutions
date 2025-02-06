@@ -2,18 +2,23 @@ import java.util.*;
 
 class Solution {
     public int calPoints(String[] operations) {
-        var score = new LinkedList<Integer>();
+        var score = new Stack<Integer>();
         for (String str : operations) {
             switch (str) {
-                case "C" -> score.remove(score.size() - 1);
-                case "D" -> score.add(score.get(score.size() - 1) * 2);
-                case "+" -> score.add(score.get(score.size() - 1) + score.get(score.size() - 2));
-                default -> score.add(Integer.parseInt(str));
+                case "C" -> score.pop();
+                case "+" -> {
+                    int first = score.pop();
+                    int last = score.peek();
+                    score.push(first);
+                    score.push(first+last);
+                }
+                case "D" -> score.push(score.peek()*2);
+                default -> score.push(Integer.parseInt(str));
             }
         }
         int sum = 0;
-        for (Integer value : score) {
-            sum += value;
+        while (!score.isEmpty()) {
+            sum += score.pop();
         }
         return sum;
     }
