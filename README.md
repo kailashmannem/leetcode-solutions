@@ -20,6 +20,7 @@ Thank you!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
+| [0228-summary-ranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/kailashmannem/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 ## Binary Search
