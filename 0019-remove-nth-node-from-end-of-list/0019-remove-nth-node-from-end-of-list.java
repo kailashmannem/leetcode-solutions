@@ -20,9 +20,11 @@ class Solution {
         for (int i=0;i<count-n-1;i++) {
             current = current.next;
         }
+        //Only 1 element
         if (count==1 && current.next==null) {
             return null;
         }
+        //When the element needed to remove is the first element
         if (count==n) {
             head = head.next;
             return head;
