@@ -74,6 +74,7 @@ Thank you!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/kailashmannem/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -86,6 +87,7 @@ Thank you!
 | [0021-merge-two-sorted-lists](https://github.com/kailashmannem/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
 |  |
