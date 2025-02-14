@@ -12,16 +12,15 @@ class Solution {
     public ListNode mergeNodes(ListNode head) {
         ListNode dummy = new ListNode(0);
         ListNode result = dummy;
-        ListNode current = head;
         int sum = 0;
-        while (current!=null) {
-            sum += current.val;
-            if (current.val==0 && sum!=0) {
+        while (head!=null) {
+            sum += head.val;
+            if (head.val==0 && sum!=0) {
                 result.next = new ListNode(sum);
                 result = result.next;
                 sum = 0;
             }
-            current = current.next;
+            head = head.next;
         }
         return dummy.next;
     }
