@@ -36,6 +36,7 @@ Thank you!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +144,8 @@ Thank you!
 | [0595-big-countries](https://github.com/kailashmannem/leetcode-solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/kailashmannem/leetcode-solutions/tree/master/1827-invalid-tweets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
