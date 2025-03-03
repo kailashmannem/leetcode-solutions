@@ -55,6 +55,7 @@ Thank you!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/kailashmannem/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/kailashmannem/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -128,6 +129,7 @@ Thank you!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
 ## Number Theory
 |  |
