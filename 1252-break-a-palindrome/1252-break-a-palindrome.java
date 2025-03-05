@@ -3,16 +3,14 @@ class Solution {
         if (palindrome.length()==1) {
             return "";
         }
-        boolean flag = false;
-        for (int i=0;i<palindrome.length()/2;i++) {
-            if (palindrome.charAt(i)!='a') {
-                flag = true;
-                return palindrome.substring(0,i) + 'a' + palindrome.substring(i+1,palindrome.length());
+        char[] arr = palindrome.toCharArray();
+        for (int i=0;i<arr.length/2;i++) {
+            if (arr[i]!='a') {
+                arr[i] = 'a';
+                return new String(arr);
             }
         }
-        if (!flag) {
-            return palindrome.substring(0,palindrome.length()-1) + 'b';
-        }
-        return "";
+        arr[arr.length-1] = 'b';
+        return new String(arr);
     }
 }
