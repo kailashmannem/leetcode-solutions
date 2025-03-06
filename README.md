@@ -21,6 +21,7 @@ Thank you!
 | [0046-permutations](https://github.com/kailashmannem/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kailashmannem/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -201,4 +202,8 @@ Thank you!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kailashmannem/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
