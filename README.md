@@ -59,6 +59,7 @@ Thank you!
 | [0020-valid-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -138,6 +139,7 @@ Thank you!
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
@@ -179,4 +181,12 @@ Thank you!
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
