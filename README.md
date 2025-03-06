@@ -13,6 +13,7 @@ Thank you!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0027-remove-element) |
@@ -146,6 +147,7 @@ Thank you!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
