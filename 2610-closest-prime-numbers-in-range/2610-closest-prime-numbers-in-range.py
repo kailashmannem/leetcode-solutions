@@ -1,6 +1,3 @@
-from typing import List
-import math
-
 class Solution:
     def closestPrimes(self, left: int, right: int) -> List[int]:
         left = max(2, left)
