@@ -34,6 +34,7 @@ Thank you!
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Thank you!
 | [2649-count-total-number-of-colored-cells](https://github.com/kailashmannem/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
