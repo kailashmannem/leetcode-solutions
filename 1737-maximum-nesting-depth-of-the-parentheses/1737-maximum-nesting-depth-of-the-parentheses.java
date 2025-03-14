@@ -10,6 +10,6 @@ class Solution {
                 count--;
             }
         }
-        return max = Math.max(count, max);
+        return max;
     }
 }
