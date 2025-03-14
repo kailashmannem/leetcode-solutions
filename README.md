@@ -59,6 +59,7 @@ Thank you!
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kailashmannem/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kailashmannem/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -82,6 +83,7 @@ Thank you!
 | [1894-merge-strings-alternately](https://github.com/kailashmannem/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
@@ -209,6 +211,7 @@ Thank you!
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Queue
 |  |
 | ------- |
