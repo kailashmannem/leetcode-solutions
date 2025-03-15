@@ -32,6 +32,7 @@ Thank you!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/kailashmannem/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -87,6 +88,7 @@ Thank you!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
