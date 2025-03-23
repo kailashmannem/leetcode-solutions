@@ -102,6 +102,7 @@ Thank you!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -192,6 +193,7 @@ Thank you!
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
@@ -257,6 +259,7 @@ Thank you!
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
