@@ -27,6 +27,7 @@ Thank you!
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/kailashmannem/leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -225,10 +226,12 @@ Thank you!
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
