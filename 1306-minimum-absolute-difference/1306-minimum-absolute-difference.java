@@ -8,8 +8,9 @@ class Solution {
             if (min_val > curr) {
                 min_val = curr;
                 min_arr.clear();
+                min_arr.add(Arrays.asList(arr[i-1],arr[i]));
             }
-            if (min_val == curr) {
+            else if (min_val == curr) {
                 min_arr.add(Arrays.asList(arr[i-1],arr[i]));
             }
         }
