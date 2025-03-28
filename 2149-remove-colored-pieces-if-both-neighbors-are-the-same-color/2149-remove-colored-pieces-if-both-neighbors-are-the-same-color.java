@@ -9,7 +9,7 @@ class Solution {
                 if (colors.charAt(i)=='A' && count>=3) {
                     countA += (count - 2);
                 }
-                if (colors.charAt(i)=='B' && count>=3) {
+                else if (colors.charAt(i)=='B' && count>=3) {
                     countB += (count - 2);
                 }
                 count = 1;
@@ -21,14 +21,6 @@ class Solution {
         if (colors.charAt(colors.length()-1)=='B' && count>=3) {
             countB += (count-2);
         }
-        if (countA == 0) {
-            return false;
-        }
-        if (countA > countB) {
-            return true;
-        }
-        else {
-            return false;
-        }
+        return countA > countB;
     }
 }
