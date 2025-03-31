@@ -295,6 +295,7 @@ Thank you!
 | [0094-binary-tree-inorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Thank you!
 | [0094-binary-tree-inorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -315,4 +317,8 @@ Thank you!
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
