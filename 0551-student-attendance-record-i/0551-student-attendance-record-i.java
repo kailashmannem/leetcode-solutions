@@ -7,11 +7,12 @@ class Solution {
             if (abs>=2) return false;
             if (i!=s.length()-1 && c==s.charAt(i+1) && c=='L') {
                 late++;
+                if (late>=3) return false;
+
             }
             else {
                 late = 1;
             }
-            if (late>=3) return false;
         }
         return true;
     }
