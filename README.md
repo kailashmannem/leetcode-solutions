@@ -108,6 +108,7 @@ Thank you!
 | [0742-to-lower-case](https://github.com/kailashmannem/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/kailashmannem/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1651-shuffle-string) |
