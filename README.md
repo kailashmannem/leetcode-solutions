@@ -84,6 +84,7 @@ Thank you!
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -292,6 +293,7 @@ Thank you!
 | [0605-can-place-flowers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1652-minimum-suffix-flips](https://github.com/kailashmannem/leetcode-solutions/tree/master/1652-minimum-suffix-flips) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
