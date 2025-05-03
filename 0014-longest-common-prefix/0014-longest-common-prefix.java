@@ -7,7 +7,6 @@ class Solution {
                 if (strs[i].charAt(j)!=res.charAt(j)) {
                     break;
                 }
-                if (res.isEmpty()) return res;
                 j++;
             }
             res = res.substring(0,j);
