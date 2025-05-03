@@ -52,6 +52,7 @@ Thank you!
 | [2350-find-closest-number-to-zero](https://github.com/kailashmannem/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3632-button-with-longest-push-time](https://github.com/kailashmannem/leetcode-solutions/tree/master/3632-button-with-longest-push-time) |
@@ -131,6 +132,7 @@ Thank you!
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/kailashmannem/leetcode-solutions/tree/master/2886-faulty-keyboard) |
+| [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Stack
