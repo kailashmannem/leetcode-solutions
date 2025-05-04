@@ -1,6 +1,6 @@
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        domi = {}
+        domi = Counter()
         for l in dominoes:
             t = tuple(sorted(l))
             if t in domi.keys():
