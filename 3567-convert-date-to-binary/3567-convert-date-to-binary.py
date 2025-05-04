@@ -6,10 +6,9 @@ class Solution:
         return "-".join(date)
 
     def intToBin(self, date: int) -> str:
-        num = 0
-        i = 1
+        if date == 0: return "0"
+        binary = ""
         while date!=0:
-            num += (date%2)*i
+            binary = str(date % 2) + binary
             date //= 2
-            i *= 10
-        return str(num)
+        return binary
