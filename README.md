@@ -35,6 +35,7 @@ Thank you!
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/kailashmannem/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
