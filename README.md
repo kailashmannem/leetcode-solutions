@@ -94,6 +94,7 @@ Thank you!
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2383-add-two-integers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/kailashmannem/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kailashmannem/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kailashmannem/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
@@ -249,6 +250,7 @@ Thank you!
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/kailashmannem/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kailashmannem/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Prefix Sum
