@@ -1,8 +1,12 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
-        allowed = set(allowed)
         count = 0
+        allowed = set(allowed)
         for l in words:
-            if set(l).issubset(allowed):
-                count += 1
+            present = True
+            for i in l:
+                if i not in allowed:
+                    present = False
+                    break
+            if present: count += 1
         return count
