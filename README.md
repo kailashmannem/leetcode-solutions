@@ -30,6 +30,7 @@ Thank you!
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -227,6 +228,7 @@ Thank you!
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
@@ -308,6 +310,7 @@ Thank you!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
