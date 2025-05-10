@@ -33,6 +33,7 @@ Thank you!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-minimum-absolute-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kailashmannem/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -250,6 +251,7 @@ Thank you!
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -325,6 +327,7 @@ Thank you!
 | [0605-can-place-flowers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1652-minimum-suffix-flips](https://github.com/kailashmannem/leetcode-solutions/tree/master/1652-minimum-suffix-flips) |
