@@ -50,6 +50,7 @@ Thank you!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/kailashmannem/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kailashmannem/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -313,6 +314,7 @@ Thank you!
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/kailashmannem/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -332,6 +334,7 @@ Thank you!
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1652-minimum-suffix-flips](https://github.com/kailashmannem/leetcode-solutions/tree/master/1652-minimum-suffix-flips) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Queue
 |  |
@@ -408,6 +411,7 @@ Thank you!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Brainteaser
 |  |
 | ------- |
