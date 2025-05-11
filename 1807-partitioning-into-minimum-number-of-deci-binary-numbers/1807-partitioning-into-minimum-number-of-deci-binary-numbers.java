@@ -3,7 +3,10 @@ class Solution {
         //Maximum number of the string because we need n number of 1's to continuously add to make up to that number.
         int max = 0;
         for (char c : n.toCharArray()) {
-            max = Math.max(max, c - '0');
+            int val = c - '0';
+            if (val > max) {
+                max = val;
+            }
         }
         return max;
     }
