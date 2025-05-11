@@ -37,6 +37,7 @@ Thank you!
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kailashmannem/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1580-shuffle-the-array) |
@@ -256,6 +257,7 @@ Thank you!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -316,6 +318,7 @@ Thank you!
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -416,6 +419,7 @@ Thank you!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Brainteaser
 |  |
