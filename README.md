@@ -158,6 +158,7 @@ Thank you!
 | [2886-faulty-keyboard](https://github.com/kailashmannem/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Stack
@@ -263,6 +264,7 @@ Thank you!
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3412-permutation-difference-between-two-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kailashmannem/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
