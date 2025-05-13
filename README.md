@@ -66,6 +66,7 @@ Thank you!
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
@@ -272,6 +273,7 @@ Thank you!
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -319,6 +321,7 @@ Thank you!
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
