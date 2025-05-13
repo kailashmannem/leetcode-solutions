@@ -49,6 +49,7 @@ Thank you!
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [1839-decode-xored-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/kailashmannem/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -316,6 +317,7 @@ Thank you!
 | [0461-hamming-distance](https://github.com/kailashmannem/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
