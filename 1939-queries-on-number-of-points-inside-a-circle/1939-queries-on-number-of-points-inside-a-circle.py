@@ -1,10 +1,12 @@
 class Solution:
     def countPoints(self, points: List[List[int]], queries: List[List[int]]) -> List[int]:
-        res = []
-        for l in queries:
+        res = [0]*len(queries)
+        i = 0
+        for x,y,r in queries:
             count = 0
-            for p in points:
-                if (p[0] - l[0])**2 + (p[1] - l[1])**2 <= l[2]**2:
+            for x1,y1 in points:
+                if (x1 - x)**2 + (y1 - y)**2 <= r**2:
                     count += 1
-            res.append(count)
+            res[i] = count
+            i += 1
         return res
