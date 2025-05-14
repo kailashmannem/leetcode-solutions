@@ -5,7 +5,10 @@ class Solution {
         for (int[] q : queries) {
             int count = 0;
             for (int[] p : points) {
-                if (Math.pow(p[0] - q[0],2) + Math.pow(p[1] - q[1],2) <= Math.pow(q[2],2)) {
+                int dx = p[0] - q[0];
+                int dy = p[1] - q[1];
+                int r = q[2];
+                if (dx*dx + dy*dy <= r*r) {
                     count++;
                 }
             }
