@@ -22,6 +22,7 @@ Thank you!
 | [0046-permutations](https://github.com/kailashmannem/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kailashmannem/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kailashmannem/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -200,6 +201,7 @@ Thank you!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kailashmannem/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
@@ -341,6 +343,7 @@ Thank you!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/kailashmannem/leetcode-solutions/tree/master/0561-array-partition) |
