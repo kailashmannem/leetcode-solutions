@@ -41,6 +41,7 @@ Thank you!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/kailashmannem/leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kailashmannem/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1580-shuffle-the-array) |
@@ -257,6 +258,7 @@ Thank you!
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1505-create-target-array-in-the-given-order](https://github.com/kailashmannem/leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/1708-design-parking-system) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/kailashmannem/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
