@@ -35,6 +35,7 @@ Thank you!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1241-decompress-run-length-encoded-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/kailashmannem/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
