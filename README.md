@@ -32,6 +32,7 @@ Thank you!
 | [0605-can-place-flowers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/kailashmannem/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -245,6 +246,7 @@ Thank you!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -378,6 +380,7 @@ Thank you!
 | ------- |
 | [0561-array-partition](https://github.com/kailashmannem/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
