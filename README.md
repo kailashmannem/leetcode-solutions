@@ -121,6 +121,7 @@ Thank you!
 | [1448-maximum-69-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/kailashmannem/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/kailashmannem/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -269,6 +270,7 @@ Thank you!
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailashmannem/leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/1708-design-parking-system) |
+| [1806-count-of-matches-in-tournament](https://github.com/kailashmannem/leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/kailashmannem/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/2058-concatenation-of-array) |
