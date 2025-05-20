@@ -133,6 +133,7 @@ Thank you!
 | [2383-add-two-integers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/kailashmannem/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kailashmannem/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kailashmannem/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
