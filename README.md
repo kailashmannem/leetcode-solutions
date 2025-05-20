@@ -80,6 +80,7 @@ Thank you!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -362,6 +363,7 @@ Thank you!
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
 |  |
 | ------- |
