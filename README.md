@@ -45,6 +45,7 @@ Thank you!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/kailashmannem/leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kailashmannem/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -254,6 +255,7 @@ Thank you!
 | ------- |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -493,6 +495,7 @@ Thank you!
 ## Design
 |  |
 | ------- |
+| [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1708-design-parking-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/1708-design-parking-system) |
 ## Geometry
 |  |
