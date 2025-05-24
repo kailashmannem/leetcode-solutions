@@ -8,6 +8,6 @@ class Solution:
         for i in s:
             if i >= g[j]:
                 j += 1
-            if j == len(g):
-                break
+            if j >= len(g):
+                return j
         return j
