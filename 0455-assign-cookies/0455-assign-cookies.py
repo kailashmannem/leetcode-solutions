@@ -5,9 +5,9 @@ class Solution:
         g.sort()
         s.sort()
         j = 0
-        for i in range(len(s)):
-            if s[i] >= g[j]:
+        for i in s:
+            if i >= g[j]:
                 j += 1
-            if j >= len(g):
-                return j
+            if j == len(g):
+                break
         return j
