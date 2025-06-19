@@ -3,10 +3,9 @@ class Solution {
         Arrays.sort(nums);
         int count = 0, min = nums[0];
         for (int i = 1; i < nums.length; i++) {
-            int max = nums[i];
-            if (max - min > k) {
+            if (nums[i] - min > k) {
                 count++;
-                min = max;
+                min = nums[i];
             }
         }
         return count + 1;
