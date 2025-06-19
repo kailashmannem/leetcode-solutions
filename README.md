@@ -76,6 +76,7 @@ Thank you!
 | [2271-rearrange-array-elements-by-sign](https://github.com/kailashmannem/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/kailashmannem/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -394,6 +395,7 @@ Thank you!
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/kailashmannem/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -423,6 +425,7 @@ Thank you!
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
