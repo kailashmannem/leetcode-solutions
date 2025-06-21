@@ -79,6 +79,7 @@ Thank you!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -375,6 +376,7 @@ Thank you!
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
@@ -515,6 +517,7 @@ Thank you!
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Design
 |  |
 | ------- |
