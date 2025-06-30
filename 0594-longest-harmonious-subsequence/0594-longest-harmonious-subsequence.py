@@ -6,5 +6,7 @@ class Solution:
         count = 0
         for i in range(len(l) - 1):
             if l[i] + 1 == l[i+1]:
-                count = max(freq[l[i]] + freq[l[i+1]], count)
+                curr = freq[l[i]] + freq[l[i+1]]
+                if curr > count:
+                    count = curr
         return count
