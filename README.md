@@ -208,6 +208,7 @@ Thank you!
 | [3412-permutation-difference-between-two-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
