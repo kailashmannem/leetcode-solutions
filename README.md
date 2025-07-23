@@ -192,6 +192,7 @@ Thank you!
 | [1786-count-the-number-of-consistent-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/kailashmannem/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kailashmannem/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1944-truncate-sentence) |
@@ -225,6 +226,7 @@ Thank you!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/kailashmannem/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/kailashmannem/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -438,6 +440,7 @@ Thank you!
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1652-minimum-suffix-flips](https://github.com/kailashmannem/leetcode-solutions/tree/master/1652-minimum-suffix-flips) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
