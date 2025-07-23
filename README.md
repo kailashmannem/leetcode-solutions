@@ -211,6 +211,7 @@ Thank you!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/kailashmannem/leetcode-solutions/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
