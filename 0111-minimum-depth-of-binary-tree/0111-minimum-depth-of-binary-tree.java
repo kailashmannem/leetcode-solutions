@@ -16,7 +16,7 @@
 class Solution {
     public int minDepth(TreeNode root) {
         if (root == null) return 0;
-        Queue<TreeNode> q = new LinkedList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
         int depth = 1;
         while (!q.isEmpty()) {
