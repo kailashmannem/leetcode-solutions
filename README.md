@@ -19,6 +19,7 @@ Thank you!
 | [0027-remove-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/kailashmannem/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kailashmannem/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kailashmannem/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -322,6 +323,7 @@ Thank you!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/kailashmannem/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0205-isomorphic-strings) |
