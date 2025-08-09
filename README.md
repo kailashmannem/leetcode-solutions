@@ -137,6 +137,7 @@ Thank you!
 | [0070-climbing-stairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -486,6 +487,7 @@ Thank you!
 | [0338-counting-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
@@ -583,4 +585,8 @@ Thank you!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
