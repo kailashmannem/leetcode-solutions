@@ -39,6 +39,7 @@ Thank you!
 | [0682-baseball-game](https://github.com/kailashmannem/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/1241-decompress-run-length-encoded-list) |
@@ -329,6 +330,7 @@ Thank you!
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/kailashmannem/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -580,4 +582,5 @@ Thank you!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
