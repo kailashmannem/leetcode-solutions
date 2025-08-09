@@ -135,6 +135,7 @@ Thank you!
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -295,6 +296,7 @@ Thank you!
 | [0002-add-two-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kailashmannem/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kailashmannem/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -381,6 +383,7 @@ Thank you!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kailashmannem/leetcode-solutions/tree/master/0461-hamming-distance) |
