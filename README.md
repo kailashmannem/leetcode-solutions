@@ -166,6 +166,7 @@ Thank you!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kailashmannem/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kailashmannem/leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
