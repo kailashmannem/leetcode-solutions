@@ -224,6 +224,7 @@ Thank you!
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/3939-process-string-with-special-operations-ii) |
 ## Stack
 |  |
@@ -325,6 +326,7 @@ Thank you!
 | [2886-faulty-keyboard](https://github.com/kailashmannem/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/3939-process-string-with-special-operations-ii) |
 ## Hash Table
 |  |
