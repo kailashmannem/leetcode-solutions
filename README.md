@@ -108,6 +108,7 @@ Thank you!
 | [3778-transform-array-by-parity](https://github.com/kailashmannem/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3934-coupon-code-validator](https://github.com/kailashmannem/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/kailashmannem/leetcode-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Binary Search
 |  |
@@ -225,6 +226,7 @@ Thank you!
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3931-process-string-with-special-operations-i) |
+| [3934-coupon-code-validator](https://github.com/kailashmannem/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3939-process-string-with-special-operations-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/3939-process-string-with-special-operations-ii) |
 ## Stack
 |  |
@@ -364,6 +366,7 @@ Thank you!
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kailashmannem/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3934-coupon-code-validator](https://github.com/kailashmannem/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 ## Number Theory
 |  |
 | ------- |
@@ -439,6 +442,7 @@ Thank you!
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/kailashmannem/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/kailashmannem/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
+| [3934-coupon-code-validator](https://github.com/kailashmannem/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
