@@ -108,6 +108,7 @@ Thank you!
 | [3778-transform-array-by-parity](https://github.com/kailashmannem/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3936-split-array-by-prime-indices](https://github.com/kailashmannem/leetcode-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Thank you!
 | [3567-convert-date-to-binary](https://github.com/kailashmannem/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kailashmannem/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kailashmannem/leetcode-solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3936-split-array-by-prime-indices](https://github.com/kailashmannem/leetcode-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## String
 |  |
 | ------- |
@@ -364,6 +366,7 @@ Thank you!
 | [2491-smallest-even-multiple](https://github.com/kailashmannem/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kailashmannem/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3936-split-array-by-prime-indices](https://github.com/kailashmannem/leetcode-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Prefix Sum
 |  |
 | ------- |
