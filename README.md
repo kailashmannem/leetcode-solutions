@@ -60,6 +60,7 @@ Thank you!
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/kailashmannem/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kailashmannem/leetcode-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -555,6 +556,7 @@ Thank you!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
