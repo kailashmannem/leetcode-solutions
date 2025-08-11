@@ -78,6 +78,7 @@ Thank you!
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kailashmannem/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kailashmannem/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -154,6 +155,7 @@ Thank you!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -215,6 +217,7 @@ Thank you!
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
@@ -300,6 +303,7 @@ Thank you!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
