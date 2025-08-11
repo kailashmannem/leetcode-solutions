@@ -98,6 +98,7 @@ Thank you!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3321-type-of-triangle](https://github.com/kailashmannem/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -424,6 +425,7 @@ Thank you!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
