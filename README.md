@@ -85,6 +85,7 @@ Thank you!
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/kailashmannem/leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2442-number-of-arithmetic-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -276,6 +277,7 @@ Thank you!
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kailashmannem/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kailashmannem/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
@@ -367,6 +369,7 @@ Thank you!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/kailashmannem/leetcode-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/kailashmannem/leetcode-solutions/tree/master/2825-minimize-string-length) |
@@ -571,6 +574,7 @@ Thank you!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2442-number-of-arithmetic-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Trie
 |  |
