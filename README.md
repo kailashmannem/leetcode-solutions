@@ -147,6 +147,7 @@ Thank you!
 | [0070-climbing-stairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -320,6 +321,7 @@ Thank you!
 | [0021-merge-two-sorted-lists](https://github.com/kailashmannem/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kailashmannem/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/0326-power-of-three) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
