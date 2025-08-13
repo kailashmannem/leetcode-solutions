@@ -91,6 +91,7 @@ Thank you!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/kailashmannem/leetcode-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -167,6 +168,7 @@ Thank you!
 | [2491-smallest-even-multiple](https://github.com/kailashmannem/leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kailashmannem/leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kailashmannem/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/kailashmannem/leetcode-solutions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
