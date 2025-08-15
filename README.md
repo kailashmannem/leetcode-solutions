@@ -149,6 +149,7 @@ Thank you!
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kailashmannem/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -324,6 +325,7 @@ Thank you!
 | [0203-remove-linked-list-elements](https://github.com/kailashmannem/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kailashmannem/leetcode-solutions/tree/master/0342-power-of-four) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -421,6 +423,7 @@ Thank you!
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/kailashmannem/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kailashmannem/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
