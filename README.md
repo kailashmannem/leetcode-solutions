@@ -192,6 +192,7 @@ Thank you!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/kailashmannem/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -403,6 +404,7 @@ Thank you!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kailashmannem/leetcode-solutions/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
@@ -536,6 +538,7 @@ Thank you!
 | [0144-binary-tree-preorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
@@ -546,6 +549,7 @@ Thank you!
 | [0111-minimum-depth-of-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -556,6 +560,7 @@ Thank you!
 | [0144-binary-tree-preorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Memoization
