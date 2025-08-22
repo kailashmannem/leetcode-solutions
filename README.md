@@ -105,6 +105,7 @@ Thank you!
 | [3321-type-of-triangle](https://github.com/kailashmannem/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kailashmannem/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -318,6 +319,7 @@ Thank you!
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
