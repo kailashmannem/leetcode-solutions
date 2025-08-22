@@ -69,6 +69,7 @@ Thank you!
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1899-count-items-matching-a-rule](https://github.com/kailashmannem/leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/kailashmannem/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -220,6 +221,7 @@ Thank you!
 | [1818-maximum-score-from-removing-substrings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/kailashmannem/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1899-count-items-matching-a-rule](https://github.com/kailashmannem/leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
