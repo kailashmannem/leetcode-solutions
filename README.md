@@ -103,6 +103,7 @@ Thank you!
 | [3194-find-words-containing-character](https://github.com/kailashmannem/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/kailashmannem/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/kailashmannem/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
