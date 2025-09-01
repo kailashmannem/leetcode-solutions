@@ -70,6 +70,7 @@ Thank you!
 | [1839-decode-xored-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kailashmannem/leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/kailashmannem/leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/kailashmannem/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/kailashmannem/leetcode-solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1944-truncate-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -479,6 +480,7 @@ Thank you!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kailashmannem/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/kailashmannem/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -496,6 +498,7 @@ Thank you!
 | [1652-minimum-suffix-flips](https://github.com/kailashmannem/leetcode-solutions/tree/master/1652-minimum-suffix-flips) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/kailashmannem/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kailashmannem/leetcode-solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
