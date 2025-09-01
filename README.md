@@ -30,6 +30,7 @@ Thank you!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kailashmannem/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -366,6 +367,7 @@ Thank you!
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/kailashmannem/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -458,6 +460,7 @@ Thank you!
 | ------- |
 | [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kailashmannem/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kailashmannem/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -518,6 +521,7 @@ Thank you!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
