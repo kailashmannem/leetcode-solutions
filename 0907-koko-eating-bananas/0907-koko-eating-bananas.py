@@ -1,5 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        if h == len(piles): return max(piles)
         def assign(piles, low, high, h):
             ans = -1
             while low <= high:
