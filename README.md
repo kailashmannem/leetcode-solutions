@@ -29,6 +29,7 @@ Thank you!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kailashmannem/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kailashmannem/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -321,6 +322,7 @@ Thank you!
 | ------- |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
@@ -572,6 +574,7 @@ Thank you!
 | [0111-minimum-depth-of-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -645,6 +648,7 @@ Thank you!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -664,6 +668,7 @@ Thank you!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
