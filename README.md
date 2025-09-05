@@ -97,6 +97,7 @@ Thank you!
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kailashmannem/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kailashmannem/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kailashmannem/leetcode-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -332,6 +333,7 @@ Thank you!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kailashmannem/leetcode-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/kailashmannem/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -360,6 +362,7 @@ Thank you!
 | [2299-merge-nodes-in-between-zeros](https://github.com/kailashmannem/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kailashmannem/leetcode-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2886-faulty-keyboard](https://github.com/kailashmannem/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
