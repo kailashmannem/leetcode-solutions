@@ -1,20 +1,19 @@
 class Solution {
     private boolean detectCycle(char[][] grid, int[][] directions, boolean[][] visited, int i, int j) {
-        Queue<int[][]> queue = new LinkedList<>();
+        Queue<int[]> queue = new LinkedList<>();
         visited[i][j] = true;
-        queue.offer(new int[][]{{i, j}, {-1, -1}});
+        queue.offer(new int[]{i, j, -1, -1});
         while (!queue.isEmpty()) {
-            int[] node = queue.peek()[0];
-            int[] parent = queue.peek()[1];
-            queue.poll();
+            int[] node = queue.poll();
+            int x = node[0], y = node[1], px = node[2], py = node[3];
             for (int[] direction : directions) {
-                int x = node[0] + direction[0], y = node[1] + direction[1];
-                if (x >= 0 && y >= 0 && x < grid.length && y < grid[0].length && grid[x][y] == grid[node[0]][node[1]]) {
-                    if (!visited[x][y]) {
-                        visited[x][y] = true;
-                        queue.offer(new int[][]{{x, y}, {node[0], node[1]}});
+                int nx = x + direction[0], ny = y + direction[1];
+                if (nx >= 0 && ny >= 0 && nx < grid.length && ny < grid[0].length && grid[nx][ny] == grid[x][y]) {
+                    if (!visited[nx][ny]) {
+                        visited[nx][ny] = true;
+                        queue.offer(new int[]{nx, ny, x, y});
                     }
-                    else if (x != parent[0] || y != parent[1]) {
+                    else if (nx != px || ny != py) {
                         return true;
                     }
                 }
