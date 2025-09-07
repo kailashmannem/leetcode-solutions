@@ -1,11 +1,11 @@
 class Solution {
-    private boolean check(char[][] board, String word, int[][] directions, boolean[][] visited, int x, int y, int idx) {
+    private boolean check_word(char[][] board, String word, int[][] directions, boolean[][] visited, int x, int y, int idx, int m, int n) {
         if (idx == word.length()) return true;
         for (int[] direction : directions) {
             int nx = x + direction[0], ny = y + direction[1];
-            if (nx >= 0 && ny >= 0 && nx < board.length && ny < board[0].length && (!visited[nx][ny]) && board[nx][ny] == word.charAt(idx)) {
+            if (nx >= 0 && ny >= 0 && nx < m && ny < n && !visited[nx][ny] && board[nx][ny] == word.charAt(idx)) {
                 visited[nx][ny] = true;
-                if (check(board, word, directions, visited, nx, ny, idx + 1)) return true;
+                if (check_word(board, word, directions, visited, nx, ny, idx + 1, m, n)) return true;
                 visited[nx][ny] = false;
             }
         }
@@ -19,7 +19,7 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 if (board[i][j] == word.charAt(0)) {
                     visited[i][j] = true;
-                    if (check(board, word, directions, visited, i, j, 1)) return true;
+                    if (check_word(board, word, directions, visited, i, j, 1, m, n)) return true;
                     visited[i][j] = false;
                 }
             }
