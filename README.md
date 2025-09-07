@@ -26,6 +26,7 @@ Thank you!
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kailashmannem/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kailashmannem/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
@@ -210,6 +211,7 @@ Thank you!
 | [0020-valid-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -330,6 +332,7 @@ Thank you!
 | ------- |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -435,6 +438,7 @@ Thank you!
 | ------- |
 | [0022-generate-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kailashmannem/leetcode-solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -582,6 +586,7 @@ Thank you!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kailashmannem/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
