@@ -23,6 +23,7 @@ Thank you!
 | [0042-trapping-rain-water](https://github.com/kailashmannem/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kailashmannem/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kailashmannem/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kailashmannem/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kailashmannem/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -212,6 +213,7 @@ Thank you!
 | [0020-valid-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kailashmannem/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -385,6 +387,7 @@ Thank you!
 | ------- |
 | [0001-two-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/kailashmannem/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kailashmannem/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kailashmannem/leetcode-solutions/tree/master/0202-happy-number) |
@@ -481,6 +484,7 @@ Thank you!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kailashmannem/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kailashmannem/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kailashmannem/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0229-majority-element-ii) |
