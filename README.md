@@ -247,6 +247,7 @@ Thank you!
 | [1899-count-items-matching-a-rule](https://github.com/kailashmannem/leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kailashmannem/leetcode-solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/kailashmannem/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
@@ -503,6 +504,7 @@ Thank you!
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/kailashmannem/leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kailashmannem/leetcode-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1970-sorting-the-sentence](https://github.com/kailashmannem/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kailashmannem/leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kailashmannem/leetcode-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
