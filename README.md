@@ -147,6 +147,7 @@ Thank you!
 | [0222-count-complete-tree-nodes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/kailashmannem/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kailashmannem/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -173,6 +174,7 @@ Thank you!
 | [0231-power-of-two](https://github.com/kailashmannem/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kailashmannem/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kailashmannem/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/kailashmannem/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
