@@ -6,12 +6,14 @@ class Solution {
         return ans;
     }
     private void backtrack(int idx, int[] nums, List<List<Integer>> res, List<Integer> store) {
-        res.add(new ArrayList<>(store));
-        for (int i = idx; i < nums.length; i++) {
-            if (i != idx && nums[i] == nums[i - 1]) continue;
-            store.add(nums[i]);
-            backtrack(i + 1, nums, res, store);
-            store.remove(store.size() - 1);
+        if (idx == nums.length) {
+            res.add(new ArrayList<>(store));
+            return;
         }
+        store.add(nums[idx]);
+        backtrack(idx + 1, nums, res, store);
+        store.remove(store.size() - 1);
+        while (idx < nums.length - 1 && nums[idx] == nums[idx + 1]) idx += 1;
+        backtrack(idx + 1, nums, res, store);
     }
 }
