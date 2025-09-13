@@ -45,6 +45,7 @@ Thank you!
 | [0455-assign-cookies](https://github.com/kailashmannem/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/kailashmannem/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/kailashmannem/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -352,6 +353,7 @@ Thank you!
 | [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -601,6 +603,7 @@ Thank you!
 | [0338-counting-bits](https://github.com/kailashmannem/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
@@ -704,6 +707,7 @@ Thank you!
 | [0111-minimum-depth-of-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
