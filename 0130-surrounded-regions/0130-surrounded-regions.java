@@ -3,21 +3,23 @@ class Solution {
     public void solve(char[][] board) {
         m = board.length; n = board[0].length;
         boolean[][] visited = new boolean[m][n];
+        //Traversals
         for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 || j == 0 || i == m - 1 || j == n - 1) {
-                    if (board[i][j] == 'O' && !visited[i][j]) {
-                        dfs(i, j, board, visited);
-                    }
-                }
-            }
+            dfs(i, 0, board, visited);
+            dfs(i, n - 1, board, visited);
         }
+        for (int j = 0; j < n; j++) {
+            dfs(0, j, board, visited);
+            dfs(m - 1, j, board, visited);
+        }
+        //Overwriting
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (board[i][j] == 'O' && !visited[i][j]) board[i][j] = 'X';
             }
         }
     }
+    
     private void dfs(int x, int y, char[][] board, boolean[][] visited) {
         if (x < 0 || y < 0 || x >= m || y >= n || board[x][y] == 'X' || visited[x][y]) return;
         visited[x][y] = true;
