@@ -637,6 +637,7 @@ Thank you!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -717,6 +718,7 @@ Thank you!
 | [0542-01-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
@@ -741,6 +743,7 @@ Thank you!
 | [0130-surrounded-regions](https://github.com/kailashmannem/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kailashmannem/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -749,6 +752,7 @@ Thank you!
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
