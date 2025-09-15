@@ -243,6 +243,7 @@ Thank you!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/kailashmannem/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1252-break-a-palindrome](https://github.com/kailashmannem/leetcode-solutions/tree/master/1252-break-a-palindrome) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/kailashmannem/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/1651-shuffle-string) |
@@ -424,6 +425,7 @@ Thank you!
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/kailashmannem/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/kailashmannem/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kailashmannem/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kailashmannem/leetcode-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
