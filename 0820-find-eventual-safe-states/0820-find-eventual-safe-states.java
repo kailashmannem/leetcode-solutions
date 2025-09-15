@@ -1,8 +1,7 @@
 class Solution {
-    private int m;
     public List<Integer> eventualSafeNodes(int[][] graph) {
         List<Integer> result = new ArrayList<>();
-        m = graph.length;
+        int m = graph.length;
         boolean[] visited = new boolean[m];
         boolean[] path = new boolean[m];
         for (int i = 0; i < m; i++) {
