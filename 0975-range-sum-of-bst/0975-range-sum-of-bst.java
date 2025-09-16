@@ -15,16 +15,9 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-        int[] sum = new int[1];
-        inorder(root, low, high, sum);
-        return sum[0];
-    }
-
-    private void inorder(TreeNode root, int low, int high, int[] sum) {
-        if (root != null) {
-            inorder(root.left, low, high, sum);
-            if (root.val >= low && root.val <= high) sum[0] += root.val;
-            inorder(root.right, low, high, sum);
-        }
+        if (root == null) return 0;
+        if (root.val < low) return rangeSumBST(root.right, low, high);
+        if (root.val > high) return rangeSumBST(root.left, low, high);
+        return root.val + rangeSumBST(root.left, low, high) + rangeSumBST(root.right, low, high);
     }
 }
