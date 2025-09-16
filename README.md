@@ -628,6 +628,7 @@ Thank you!
 | [0222-count-complete-tree-nodes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/kailashmannem/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -646,6 +647,7 @@ Thank you!
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kailashmannem/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0975-range-sum-of-bst](https://github.com/kailashmannem/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -660,6 +662,7 @@ Thank you!
 | [0222-count-complete-tree-nodes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/kailashmannem/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/kailashmannem/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Memoization
 |  |
@@ -674,6 +677,7 @@ Thank you!
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/kailashmannem/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Combinatorics
 |  |
 | ------- |
