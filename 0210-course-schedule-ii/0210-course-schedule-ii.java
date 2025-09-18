@@ -16,17 +16,15 @@ class Solution {
             if (indegree[i] == 0) queue.offer(i);
         }
         int[] topo = new int[numCourses];
-        int count = 0;
         int i = 0;
         while (!queue.isEmpty()) {
             int node = queue.poll();
-            count += 1;
             topo[i++] = node;
             for (int it : adj.get(node)) {
                 indegree[it] -= 1;
                 if (indegree[it] == 0) queue.offer(it);
             }
         }
-        return (count == numCourses) ? topo : new int[0];
+        return (i == numCourses) ? topo : new int[0];
     }
 }
