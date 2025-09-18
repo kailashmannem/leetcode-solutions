@@ -3,7 +3,7 @@ class Solution {
         List<List<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < numCourses; i++) adj.add(new ArrayList<Integer>());
         for (int arr[] : prerequisites) {
-            adj.get(arr[0]).add(arr[1]);
+            adj.get(arr[1]).add(arr[0]);
         }
         int[] indegree = new int[numCourses];
         for (int i = 0; i < numCourses; i++) {
@@ -17,11 +17,11 @@ class Solution {
         }
         int[] topo = new int[numCourses];
         int count = 0;
-        int i = numCourses - 1;
+        int i = 0;
         while (!queue.isEmpty()) {
             int node = queue.poll();
             count += 1;
-            topo[i--] = node;
+            topo[i++] = node;
             for (int it : adj.get(node)) {
                 indegree[it] -= 1;
                 if (indegree[it] == 0) queue.offer(it);
