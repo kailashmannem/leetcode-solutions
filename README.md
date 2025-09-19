@@ -58,6 +58,7 @@ Thank you!
 | [0907-koko-eating-bananas](https://github.com/kailashmannem/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/kailashmannem/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -428,6 +429,7 @@ Thank you!
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/kailashmannem/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/kailashmannem/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kailashmannem/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/kailashmannem/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -788,6 +790,7 @@ Thank you!
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kailashmannem/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [1039-find-the-town-judge](https://github.com/kailashmannem/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
