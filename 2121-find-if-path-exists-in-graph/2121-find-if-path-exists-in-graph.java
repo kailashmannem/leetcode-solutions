@@ -11,11 +11,16 @@ class Solution {
         return adj;
     }
     private boolean findPath(Map<Integer, List<Integer>> adj, boolean[] visited, int source, int destination) {
-        if (source == destination) return true;
-        visited[source] = true;
-        for (int node : adj.get(source)) {
-            if (!visited[node]) {
-                if (findPath(adj, visited, node, destination)) return true;
+        Queue<Integer> queue = new LinkedList<>();
+        queue.offer(source);
+        while (!queue.isEmpty()) {
+            int node = queue.poll();
+            if (node == destination) return true;
+            for (int vertex : adj.get(node)) {
+                if (!visited[vertex]) {
+                    visited[vertex] = true;
+                    queue.offer(vertex);
+                }
             }
         }
         return false;
