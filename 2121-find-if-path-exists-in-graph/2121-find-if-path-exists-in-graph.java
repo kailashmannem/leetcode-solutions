@@ -1,8 +1,8 @@
 class Solution {
-    private List<List<Integer>> build_graph(int n, int[][] edges) {
-        List<List<Integer>> adj = new ArrayList<>();
+    private Map<Integer, List<Integer>> build_graph(int n, int[][] edges) {
+        Map<Integer, List<Integer>> adj = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<Integer>());
+            adj.put(i, new ArrayList<Integer>());
         }
         for (int[] edge : edges) {
             adj.get(edge[0]).add(edge[1]);
@@ -10,7 +10,7 @@ class Solution {
         }
         return adj;
     }
-    private boolean findPath(List<List<Integer>> adj, boolean[] visited, int source, int destination) {
+    private boolean findPath(Map<Integer, List<Integer>> adj, boolean[] visited, int source, int destination) {
         if (source == destination) return true;
         visited[source] = true;
         for (int node : adj.get(source)) {
@@ -21,7 +21,7 @@ class Solution {
         return false;
     }
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        List<List<Integer>> graph = build_graph(n, edges);
+        Map<Integer, List<Integer>> graph = build_graph(n, edges);
         return findPath(graph, new boolean[n], source, destination);
     }
 }
