@@ -142,6 +142,7 @@ Thank you!
 | [3778-transform-array-by-parity](https://github.com/kailashmannem/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
 | [3934-coupon-code-validator](https://github.com/kailashmannem/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 | [3936-split-array-by-prime-indices](https://github.com/kailashmannem/leetcode-solutions/tree/master/3936-split-array-by-prime-indices) |
 ## Binary Search
@@ -160,6 +161,7 @@ Thank you!
 | [0907-koko-eating-bananas](https://github.com/kailashmannem/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -457,6 +459,7 @@ Thank you!
 | [3446-find-the-number-of-good-pairs-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kailashmannem/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3799-unique-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kailashmannem/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/kailashmannem/leetcode-solutions/tree/master/3934-coupon-code-validator) |
 ## Number Theory
@@ -591,6 +594,7 @@ Thank you!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -731,6 +735,7 @@ Thank you!
 | [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1708-design-parking-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/1708-design-parking-system) |
 | [2429-design-a-food-rating-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
 ## Geometry
 |  |
 | ------- |
@@ -809,4 +814,5 @@ Thank you!
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
