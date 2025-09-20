@@ -1,15 +1,15 @@
 class Solution {
     public String removeOuterParentheses(String s) {
         StringBuffer sb = new StringBuffer();
-        Stack<Character> stack = new Stack<>();
+        int count = 0;
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if (ch == '(') stack.push(ch);
+            if (ch == '(') count += 1;
             else {
-                stack.pop();
-                if (stack.size() == 1) sb.append(ch);
+                count -= 1;
+                if (count == 1) sb.append(ch);
             }
-            if (stack.size() > 1) sb.append(ch);
+            if (count > 1) sb.append(ch);
         }
         return sb.toString();
     }
