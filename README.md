@@ -85,6 +85,7 @@ Thank you!
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1720-crawler-log-folder](https://github.com/kailashmannem/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kailashmannem/leetcode-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kailashmannem/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -160,6 +161,7 @@ Thank you!
 | [0540-single-element-in-a-sorted-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/kailashmannem/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kailashmannem/leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
@@ -377,6 +379,7 @@ Thank you!
 | [1171-shortest-path-in-binary-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -570,6 +573,7 @@ Thank you!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kailashmannem/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/kailashmannem/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kailashmannem/leetcode-solutions/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -675,6 +679,7 @@ Thank you!
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kailashmannem/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -774,6 +779,7 @@ Thank you!
 | [1171-shortest-path-in-binary-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kailashmannem/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Merge Sort
@@ -798,6 +804,7 @@ Thank you!
 | [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kailashmannem/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/kailashmannem/leetcode-solutions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
