@@ -61,6 +61,7 @@ Thank you!
 | [1039-find-the-town-judge](https://github.com/kailashmannem/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/kailashmannem/leetcode-solutions/tree/master/1137-height-checker) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kailashmannem/leetcode-solutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/kailashmannem/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -373,6 +374,7 @@ Thank you!
 | [0825-max-increase-to-keep-city-skyline](https://github.com/kailashmannem/leetcode-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1036-rotting-oranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1572-subrectangle-queries](https://github.com/kailashmannem/leetcode-solutions/tree/master/1572-subrectangle-queries) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1791-richest-customer-wealth](https://github.com/kailashmannem/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -769,6 +771,7 @@ Thank you!
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/kailashmannem/leetcode-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/kailashmannem/leetcode-solutions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kailashmannem/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
