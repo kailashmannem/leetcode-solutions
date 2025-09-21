@@ -27,7 +27,7 @@ class Solution {
         Set<String> set = new HashSet<>(wordList);
         List<List<String>> ans = new ArrayList<>();
         if (!set.contains(endWord)) return ans;
-        Queue<String> queue = new ArrayDeque<>();
+        Queue<String> queue = new LinkedList<>();
         Map<String, Integer> shortest = new HashMap<>();
         queue.offer(beginWord);
         shortest.put(beginWord, 1);
