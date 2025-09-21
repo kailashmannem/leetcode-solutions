@@ -4,7 +4,7 @@ class Solution {
         if (grid[0][0] == 1 || grid[m-1][n-1] == 1) return -1;
         if (m == 1 && n == 1 && grid[0][0] == 0) return 1;
         int[][] directions = new int[][]{{-1,0}, {1,0}, {0,1}, {0,-1}, {1,1}, {-1,-1}, {-1,1}, {1, -1}};
-        Queue<int[]> pq = new ArrayDeque<>();
+        Queue<int[]> pq = new LinkedList<>();
         pq.offer(new int[]{1, 0, 0});
         while (!pq.isEmpty()) {
             int dist = pq.peek()[0], x = pq.peek()[1], y = pq.peek()[2];
