@@ -280,6 +280,7 @@ Thank you!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kailashmannem/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kailashmannem/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kailashmannem/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -458,6 +459,7 @@ Thank you!
 | [2215-finding-3-digit-even-numbers](https://github.com/kailashmannem/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kailashmannem/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/kailashmannem/leetcode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -625,6 +627,7 @@ Thank you!
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kailashmannem/leetcode-solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kailashmannem/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kailashmannem/leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kailashmannem/leetcode-solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/kailashmannem/leetcode-solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kailashmannem/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kailashmannem/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
