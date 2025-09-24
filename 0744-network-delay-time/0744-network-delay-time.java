@@ -22,8 +22,7 @@ class Solution {
         }
         for (int i = 1; i <= n; i++) {
             min = Math.max(min, dist[i]);
-            if (min == Integer.MAX_VALUE) return -1;
         }
-        return min;
+        return (min == Integer.MAX_VALUE) ? -1 : min; 
     }
 }
