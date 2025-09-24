@@ -583,6 +583,7 @@ Thank you!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kailashmannem/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/kailashmannem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kailashmannem/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/kailashmannem/leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/kailashmannem/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -652,6 +653,7 @@ Thank you!
 | [0392-is-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/kailashmannem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/kailashmannem/leetcode-solutions/tree/master/0826-soup-servings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kailashmannem/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
@@ -687,6 +689,7 @@ Thank you!
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/kailashmannem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kailashmannem/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/kailashmannem/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/kailashmannem/leetcode-solutions/tree/master/1073-number-of-enclaves) |
@@ -785,6 +788,7 @@ Thank you!
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kailashmannem/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/kailashmannem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kailashmannem/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/kailashmannem/leetcode-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kailashmannem/leetcode-solutions/tree/master/1036-rotting-oranges) |
@@ -829,6 +833,7 @@ Thank you!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kailashmannem/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/kailashmannem/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/kailashmannem/leetcode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/kailashmannem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kailashmannem/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/kailashmannem/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kailashmannem/leetcode-solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -844,4 +849,8 @@ Thank you!
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/kailashmannem/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/kailashmannem/leetcode-solutions/tree/master/3827-implement-router) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/kailashmannem/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
