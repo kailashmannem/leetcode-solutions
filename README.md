@@ -238,6 +238,7 @@ Thank you!
 | [0022-generate-parentheses](https://github.com/kailashmannem/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kailashmannem/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kailashmannem/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kailashmannem/leetcode-solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kailashmannem/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -435,6 +436,7 @@ Thank you!
 | [0041-first-missing-positive](https://github.com/kailashmannem/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kailashmannem/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kailashmannem/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kailashmannem/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kailashmannem/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kailashmannem/leetcode-solutions/tree/master/0133-clone-graph) |
@@ -812,6 +814,7 @@ Thank you!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kailashmannem/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/kailashmannem/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/kailashmannem/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 ## Probability and Statistics
